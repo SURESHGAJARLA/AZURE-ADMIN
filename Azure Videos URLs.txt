@@ -1,0 +1,3 @@
+https://www.youtube.com/watch?v=6L1nBUeBNX8  - Azure introduction
+
+https://docs.microsoft.com/en-us/azure/virtual-network/virtual-networks-faq 

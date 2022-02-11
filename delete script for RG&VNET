@@ -1,0 +1,4 @@
+#!/bin/bash
+echo "Running the script now..!!"
+###########---RG &VNET----##########
+az group delete -n AZUREB8 --yes

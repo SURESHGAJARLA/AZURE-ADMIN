@@ -1,0 +1,17 @@
+Pfb the jd and acknowledge this mail(acknowledging is mandatory) 
+  
+Good knowledge and experience in Azure - Azure Active Directory, WSUS, ExpressRoute, Hybrid Runbook Workers, OMS, VNET & NSGs  
+Implement, deploy and configure Azure VMs, Storage, Network & Connectivity   
+Manage hosting plans for Azure Infrastructure  
+Knowledge in implementing & deploying workloads on Azure virtual machines (VMs)  
+Implement storage related to blobs, Azure files, SQL & recovery services and managing the storage access  
+Implement and Integrate Azure Active Directory with AD Migration  
+Design and Implement Azure Site Recovery and Azure Backup  
+Good knowledge in windows PowerShell scripting and Azure automation  
+Build VMs in Azure using Azure Resource Manager (ARM) Templates   
+EMS/OMS experience would be added advantage  
+Experience in Linux, Red Hat, good understanding of installation and configuration of supported Linux distributions on Azure platform  
+Experience in running SAP applications across dev/test and production scenarios in Azure.   
+Experience in SAP and migrating its critical S/4HANA systems to Azure  
+
+  

@@ -1,0 +1,38 @@
+az account set --subscription "Production"
+echo " Creating Azure Resource Group"
+az group create -l eastus -n HUBRG
+az group create -l eastus -n SPOKERG
+
+echo " Creating Azure VNET"
+az network vnet create -g HUBRG -n HUBRG-vNET1 --address-prefix 10.10.0.0/16 \
+--subnet-name HUBRG-Subnet-1 --subnet-prefix 10.10.1.0/24 -l eastus
+
+az network vnet create -g SPOKERG -n SPOKERG-vNET1 --address-prefix 172.16.0.0/16 \
+--subnet-name SPOKERG-Subnet-1 --subnet-prefix 172.16.1.0/24 -l eastus
+
+
+echo " Creating Azure NSG and NSG Rules"
+az network nsg create -g HUBRG -n HUBRG-NSG1
+az network nsg rule create -g HUBRG --nsg-name HUBRG-NSG1 -n HUBRG_NSG_RULE1 --priority 100 \
+--source-address-prefixes '*' --source-port-ranges '*' --destination-address-prefixes '*' \
+--destination-port-ranges '*' --access Allow --protocol Tcp --description "Allowing All Traffic For Now"
+
+echo " Creating Azure NSG and NSG Rules"
+az network nsg create -g SPOKERG -n SPOKERG-NSG1
+az network nsg rule create -g SPOKERG --nsg-name SPOKERG-NSG1 -n SPOKERG_NSG_RULE1 --priority 100 \
+--source-address-prefixes '*' --source-port-ranges '*' --destination-address-prefixes '*' \
+--destination-port-ranges '*' --access Allow --protocol Tcp --description "Allowing All Traffic For Now"
+
+echo " Creating Azure Availability Set"
+az vm availability-set create  --name EAST-AVSET1 -g HUBRG --location eastus \
+--platform-fault-domain-count 3 --platform-update-domain-count 5
+
+echo " Creating Azure Availability Set"
+az vm availability-set create  --name EAST-AVSET1 -g SPOKERG --location eastus \
+--platform-fault-domain-count 3 --platform-update-domain-count 5
+
+
+
+az vm create --resource-group SPOKERG --name SPOKERGVM1 --image UbuntuLTS --vnet-name SPOKERG-vNET1 \
+--subnet SPOKERG-Subnet-1 --admin-username testuser --admin-password "India@123456" --size Standard_B1s \
+--availability-set EAST-AVSET1 --nsg SPOKERG-NSG1

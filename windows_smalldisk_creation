@@ -1,0 +1,5 @@
+#!/bin/bash
+urn="MicrosoftWindowsServer:WindowsServer:2016-Datacenter-smalldisk:14393.3085.1907121547"
+az vm create --resource-group AZUREB8 --name AZUREB8VM1 --image $urn --vnet-name AZUREB8-vNET1 \
+--subnet AZUREB8-Subnet-1 --admin-username testuser --admin-password "India@123456" --size Standard_B2ms \
+--availability-set EAST-AVSET1 --nsg AZUREB8-NSG1 

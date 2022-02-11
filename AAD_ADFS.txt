@@ -1,0 +1,33 @@
+AAD vs ADFS: Integrating On-Premise with Azure Active Directory:
+========================================================================
+
+
+Dear All
+We will do the practical and theory understanding for on-premise AD to Azure AD Sync.
+ 
+However these articles will improve your understanding over the concept.
+ 
+https://thirdspace.net/blog/adfs-azure-ad-microsoft-changed-authentication/
+ 
+ 
+http://techgenix.com/azure-ad-pass-through-adfs/
+ 
+Watch this video:
+https://azure.microsoft.com/en-in/resources/videos/configuring-ad-fs-for-user-sign-in-with-azure-ad-connect/
+
+
+
+Try all these in Azure Shell (in Portal)
+==============================================
+ 
+Display only Custom Roles
+az role definition list --custom-role-only true --output json 
+ 
+Display Built-in Roles only
+az role definition list --custom-role-only false --output json | jq '.[] | {"roleName":.roleName, "description":.description, "roleType":.roleType}'
+ 
+Get permissions of a role definition
+az role definition list --name "Contributor" --output json | jq '.[] | {"actions":.permissions[0].actions, "notActions":.permissions[0].notActions}'
+ 
+Get just the actions and notActions of a role.
+az role definition list --name "Contributor" --output json | jq '.[] | {"actions":.permissions[0].actions, "notActions":.permissions[0].notActions}'

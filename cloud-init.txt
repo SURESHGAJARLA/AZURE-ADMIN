@@ -1,0 +1,17 @@
+#cloud-config
+package_upgrade: true
+packages:
+  - nginx
+  - tree
+  - git
+  
+ 
+runcmd:
+  - service nginx restart
+  - useradd testuser
+  - mkdir /tmp/testfolder
+  - SERVER = $(hostnae)
+  - echo '<h1>The Server name is "'$(SERVER)'" </h1>' >> /var/www/html/index.nginx-debian.html  
+  
+  
+  
