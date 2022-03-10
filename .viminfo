@@ -12,7 +12,7 @@
 ~h
 # Command Line History (newest to oldest):
 :wq
-|2,0,1646914563,,"wq"
+|2,0,1646916980,,"wq"
 
 # Search String History (newest to oldest):
 
@@ -28,222 +28,252 @@
 |3,1,36,0,1,0,1646479328,"\""
 
 # File marks:
-'0  2  17  ~/HELLOSURESH
-|4,48,2,17,1646914563,"~/HELLOSURESH"
-'1  4  26  ~/age.sh
-|4,49,4,26,1646479674,"~/age.sh"
-'2  1  10  ~/age.sh
-|4,50,1,10,1646479590,"~/age.sh"
-'3  1  10  ~/age.sh
-|4,51,1,10,1646479590,"~/age.sh"
-'4  2  14  ~/age.sh
-|4,52,2,14,1646479480,"~/age.sh"
-'5  2  14  ~/age.sh
-|4,53,2,14,1646479480,"~/age.sh"
-'6  4  39  ~/age.sh
-|4,54,4,39,1646479359,"~/age.sh"
-'7  5  39  ~/age.sh
-|4,55,5,39,1646479359,"~/age.sh"
-'8  5  39  ~/age.sh
-|4,56,5,39,1646479359,"~/age.sh"
-'9  4  39  ~/age.sh
-|4,57,4,39,1646479359,"~/age.sh"
+'0  1  899  ~/ifazure
+|4,48,1,899,1646916980,"~/ifazure"
+'1  2  36  ~/AzureTerraform/suresh
+|4,49,2,36,1646916483,"~/AzureTerraform/suresh"
+'2  1  9  ~/AzureTerraform/suresh
+|4,50,1,9,1646916023,"~/AzureTerraform/suresh"
+'3  1  9  ~/AzureTerraform/suresh
+|4,51,1,9,1646916023,"~/AzureTerraform/suresh"
+'4  2  0  ~/AzureTerraform/file.txt
+|4,52,2,0,1646915160,"~/AzureTerraform/file.txt"
+'5  2  17  ~/HELLOSURESH
+|4,53,2,17,1646914563,"~/HELLOSURESH"
+'6  4  26  ~/age.sh
+|4,54,4,26,1646479674,"~/age.sh"
+'7  1  10  ~/age.sh
+|4,55,1,10,1646479590,"~/age.sh"
+'8  1  10  ~/age.sh
+|4,56,1,10,1646479590,"~/age.sh"
+'9  2  14  ~/age.sh
+|4,57,2,14,1646479480,"~/age.sh"
 
 # Jumplist (newest first):
+-'  1  899  ~/ifazure
+|4,39,1,899,1646916980,"~/ifazure"
+-'  2  36  ~/AzureTerraform/suresh
+|4,39,2,36,1646916483,"~/AzureTerraform/suresh"
+-'  2  36  ~/AzureTerraform/suresh
+|4,39,2,36,1646916483,"~/AzureTerraform/suresh"
+-'  1  9  ~/AzureTerraform/suresh
+|4,39,1,9,1646916469,"~/AzureTerraform/suresh"
+-'  1  9  ~/AzureTerraform/suresh
+|4,39,1,9,1646916469,"~/AzureTerraform/suresh"
+-'  1  9  ~/AzureTerraform/suresh
+|4,39,1,9,1646916023,"~/AzureTerraform/suresh"
+-'  1  9  ~/AzureTerraform/suresh
+|4,39,1,9,1646916023,"~/AzureTerraform/suresh"
+-'  2  0  ~/AzureTerraform/file.txt
+|4,39,2,0,1646915160,"~/AzureTerraform/file.txt"
+-'  2  0  ~/AzureTerraform/file.txt
+|4,39,2,0,1646915160,"~/AzureTerraform/file.txt"
+-'  2  0  ~/AzureTerraform/file.txt
+|4,39,2,0,1646915160,"~/AzureTerraform/file.txt"
+-'  2  0  ~/AzureTerraform/file.txt
+|4,39,2,0,1646915160,"~/AzureTerraform/file.txt"
+-'  2  0  ~/AzureTerraform/file.txt
+|4,39,2,0,1646915160,"~/AzureTerraform/file.txt"
+-'  2  0  ~/AzureTerraform/file.txt
+|4,39,2,0,1646915160,"~/AzureTerraform/file.txt"
+-'  2  0  ~/AzureTerraform/file.txt
+|4,39,2,0,1646915160,"~/AzureTerraform/file.txt"
+-'  2  0  ~/AzureTerraform/file.txt
+|4,39,2,0,1646915160,"~/AzureTerraform/file.txt"
+-'  1  0  ~/AzureTerraform/file.txt
+|4,39,1,0,1646915148,"~/AzureTerraform/file.txt"
+-'  1  0  ~/AzureTerraform/file.txt
+|4,39,1,0,1646915148,"~/AzureTerraform/file.txt"
+-'  1  0  ~/AzureTerraform/file.txt
+|4,39,1,0,1646915148,"~/AzureTerraform/file.txt"
+-'  1  0  ~/AzureTerraform/file.txt
+|4,39,1,0,1646915148,"~/AzureTerraform/file.txt"
+-'  1  0  ~/AzureTerraform/file.txt
+|4,39,1,0,1646915148,"~/AzureTerraform/file.txt"
+-'  1  0  ~/AzureTerraform/file.txt
+|4,39,1,0,1646915148,"~/AzureTerraform/file.txt"
+-'  1  0  ~/AzureTerraform/file.txt
+|4,39,1,0,1646915148,"~/AzureTerraform/file.txt"
+-'  1  0  ~/AzureTerraform/file.txt
+|4,39,1,0,1646915148,"~/AzureTerraform/file.txt"
 -'  2  17  ~/HELLOSURESH
 |4,39,2,17,1646914563,"~/HELLOSURESH"
+-'  2  17  ~/HELLOSURESH
+|4,39,2,17,1646914563,"~/HELLOSURESH"
+-'  2  17  ~/HELLOSURESH
+|4,39,2,17,1646914563,"~/HELLOSURESH"
+-'  2  17  ~/HELLOSURESH
+|4,39,2,17,1646914563,"~/HELLOSURESH"
+-'  2  17  ~/HELLOSURESH
+|4,39,2,17,1646914563,"~/HELLOSURESH"
+-'  2  17  ~/HELLOSURESH
+|4,39,2,17,1646914563,"~/HELLOSURESH"
+-'  2  17  ~/HELLOSURESH
+|4,39,2,17,1646914563,"~/HELLOSURESH"
+-'  2  17  ~/HELLOSURESH
+|4,39,2,17,1646914563,"~/HELLOSURESH"
+-'  2  17  ~/HELLOSURESH
+|4,39,2,17,1646914563,"~/HELLOSURESH"
+-'  2  17  ~/HELLOSURESH
+|4,39,2,17,1646914563,"~/HELLOSURESH"
+-'  2  17  ~/HELLOSURESH
+|4,39,2,17,1646914563,"~/HELLOSURESH"
+-'  2  17  ~/HELLOSURESH
+|4,39,2,17,1646914563,"~/HELLOSURESH"
+-'  2  17  ~/HELLOSURESH
+|4,39,2,17,1646914563,"~/HELLOSURESH"
+-'  2  17  ~/HELLOSURESH
+|4,39,2,17,1646914563,"~/HELLOSURESH"
+-'  2  17  ~/HELLOSURESH
+|4,39,2,17,1646914563,"~/HELLOSURESH"
+-'  2  17  ~/HELLOSURESH
+|4,39,2,17,1646914563,"~/HELLOSURESH"
+-'  1  0  ~/HELLOSURESH
+|4,39,1,0,1646914521,"~/HELLOSURESH"
+-'  1  0  ~/HELLOSURESH
+|4,39,1,0,1646914521,"~/HELLOSURESH"
+-'  1  0  ~/HELLOSURESH
+|4,39,1,0,1646914521,"~/HELLOSURESH"
+-'  1  0  ~/HELLOSURESH
+|4,39,1,0,1646914521,"~/HELLOSURESH"
+-'  1  0  ~/HELLOSURESH
+|4,39,1,0,1646914521,"~/HELLOSURESH"
+-'  1  0  ~/HELLOSURESH
+|4,39,1,0,1646914521,"~/HELLOSURESH"
+-'  1  0  ~/HELLOSURESH
+|4,39,1,0,1646914521,"~/HELLOSURESH"
+-'  1  0  ~/HELLOSURESH
+|4,39,1,0,1646914521,"~/HELLOSURESH"
+-'  1  0  ~/HELLOSURESH
+|4,39,1,0,1646914521,"~/HELLOSURESH"
+-'  1  0  ~/HELLOSURESH
+|4,39,1,0,1646914521,"~/HELLOSURESH"
+-'  1  0  ~/HELLOSURESH
+|4,39,1,0,1646914521,"~/HELLOSURESH"
+-'  1  0  ~/HELLOSURESH
+|4,39,1,0,1646914521,"~/HELLOSURESH"
+-'  1  0  ~/HELLOSURESH
+|4,39,1,0,1646914521,"~/HELLOSURESH"
+-'  1  0  ~/HELLOSURESH
+|4,39,1,0,1646914521,"~/HELLOSURESH"
+-'  1  0  ~/HELLOSURESH
+|4,39,1,0,1646914521,"~/HELLOSURESH"
 -'  1  0  ~/HELLOSURESH
 |4,39,1,0,1646914521,"~/HELLOSURESH"
 -'  4  26  ~/age.sh
 |4,39,4,26,1646479674,"~/age.sh"
 -'  4  26  ~/age.sh
 |4,39,4,26,1646479674,"~/age.sh"
+-'  4  26  ~/age.sh
+|4,39,4,26,1646479674,"~/age.sh"
+-'  4  26  ~/age.sh
+|4,39,4,26,1646479674,"~/age.sh"
+-'  4  26  ~/age.sh
+|4,39,4,26,1646479674,"~/age.sh"
+-'  4  26  ~/age.sh
+|4,39,4,26,1646479674,"~/age.sh"
+-'  4  26  ~/age.sh
+|4,39,4,26,1646479674,"~/age.sh"
+-'  4  26  ~/age.sh
+|4,39,4,26,1646479674,"~/age.sh"
+-'  4  26  ~/age.sh
+|4,39,4,26,1646479674,"~/age.sh"
+-'  4  26  ~/age.sh
+|4,39,4,26,1646479674,"~/age.sh"
+-'  4  26  ~/age.sh
+|4,39,4,26,1646479674,"~/age.sh"
+-'  4  26  ~/age.sh
+|4,39,4,26,1646479674,"~/age.sh"
+-'  4  26  ~/age.sh
+|4,39,4,26,1646479674,"~/age.sh"
+-'  4  26  ~/age.sh
+|4,39,4,26,1646479674,"~/age.sh"
+-'  4  26  ~/age.sh
+|4,39,4,26,1646479674,"~/age.sh"
+-'  4  26  ~/age.sh
+|4,39,4,26,1646479674,"~/age.sh"
+-'  4  26  ~/age.sh
+|4,39,4,26,1646479674,"~/age.sh"
+-'  4  26  ~/age.sh
+|4,39,4,26,1646479674,"~/age.sh"
+-'  4  26  ~/age.sh
+|4,39,4,26,1646479674,"~/age.sh"
+-'  4  26  ~/age.sh
+|4,39,4,26,1646479674,"~/age.sh"
+-'  4  26  ~/age.sh
+|4,39,4,26,1646479674,"~/age.sh"
+-'  4  26  ~/age.sh
+|4,39,4,26,1646479674,"~/age.sh"
+-'  4  26  ~/age.sh
+|4,39,4,26,1646479674,"~/age.sh"
+-'  4  26  ~/age.sh
+|4,39,4,26,1646479674,"~/age.sh"
+-'  4  26  ~/age.sh
+|4,39,4,26,1646479674,"~/age.sh"
+-'  4  26  ~/age.sh
+|4,39,4,26,1646479674,"~/age.sh"
+-'  4  26  ~/age.sh
+|4,39,4,26,1646479674,"~/age.sh"
+-'  4  26  ~/age.sh
+|4,39,4,26,1646479674,"~/age.sh"
+-'  4  26  ~/age.sh
+|4,39,4,26,1646479674,"~/age.sh"
+-'  4  26  ~/age.sh
+|4,39,4,26,1646479674,"~/age.sh"
+-'  4  26  ~/age.sh
+|4,39,4,26,1646479674,"~/age.sh"
+-'  4  26  ~/age.sh
+|4,39,4,26,1646479674,"~/age.sh"
 -'  1  10  ~/age.sh
 |4,39,1,10,1646479656,"~/age.sh"
 -'  1  10  ~/age.sh
 |4,39,1,10,1646479656,"~/age.sh"
 -'  1  10  ~/age.sh
-|4,39,1,10,1646479590,"~/age.sh"
+|4,39,1,10,1646479656,"~/age.sh"
 -'  1  10  ~/age.sh
-|4,39,1,10,1646479590,"~/age.sh"
--'  2  14  ~/age.sh
-|4,39,2,14,1646479480,"~/age.sh"
--'  2  14  ~/age.sh
-|4,39,2,14,1646479480,"~/age.sh"
--'  2  14  ~/age.sh
-|4,39,2,14,1646479480,"~/age.sh"
--'  2  14  ~/age.sh
-|4,39,2,14,1646479480,"~/age.sh"
--'  5  39  ~/age.sh
-|4,39,5,39,1646479380,"~/age.sh"
--'  4  39  ~/age.sh
-|4,39,4,39,1646479380,"~/age.sh"
--'  5  39  ~/age.sh
-|4,39,5,39,1646479380,"~/age.sh"
--'  5  39  ~/age.sh
-|4,39,5,39,1646479380,"~/age.sh"
--'  4  39  ~/age.sh
-|4,39,4,39,1646479380,"~/age.sh"
--'  5  39  ~/age.sh
-|4,39,5,39,1646479380,"~/age.sh"
--'  5  39  ~/age.sh
-|4,39,5,39,1646479359,"~/age.sh"
--'  5  39  ~/age.sh
-|4,39,5,39,1646479359,"~/age.sh"
--'  5  39  ~/age.sh
-|4,39,5,39,1646479351,"~/age.sh"
--'  5  39  ~/age.sh
-|4,39,5,39,1646479351,"~/age.sh"
--'  2  12  ~/age.sh
-|4,39,2,12,1646479319,"~/age.sh"
--'  2  12  ~/age.sh
-|4,39,2,12,1646479319,"~/age.sh"
--'  2  12  ~/age.sh
-|4,39,2,12,1646479319,"~/age.sh"
--'  2  12  ~/age.sh
-|4,39,2,12,1646479319,"~/age.sh"
--'  2  12  ~/age.sh
-|4,39,2,12,1646479299,"~/age.sh"
--'  2  12  ~/age.sh
-|4,39,2,12,1646479299,"~/age.sh"
--'  5  27  ~/age.sh
-|4,39,5,27,1646479254,"~/age.sh"
--'  5  27  ~/age.sh
-|4,39,5,27,1646479254,"~/age.sh"
--'  3  27  ~/age.sh
-|4,39,3,27,1646479229,"~/age.sh"
--'  3  27  ~/age.sh
-|4,39,3,27,1646479229,"~/age.sh"
--'  4  27  ~/age.sh
-|4,39,4,27,1646479229,"~/age.sh"
--'  4  27  ~/age.sh
-|4,39,4,27,1646479229,"~/age.sh"
--'  4  27  ~/age.sh
-|4,39,4,27,1646479229,"~/age.sh"
--'  4  27  ~/age.sh
-|4,39,4,27,1646479229,"~/age.sh"
--'  3  27  ~/age.sh
-|4,39,3,27,1646479229,"~/age.sh"
--'  3  27  ~/age.sh
-|4,39,3,27,1646479229,"~/age.sh"
--'  4  27  ~/age.sh
-|4,39,4,27,1646479229,"~/age.sh"
--'  4  27  ~/age.sh
-|4,39,4,27,1646479229,"~/age.sh"
--'  4  27  ~/age.sh
-|4,39,4,27,1646479229,"~/age.sh"
--'  4  27  ~/age.sh
-|4,39,4,27,1646479229,"~/age.sh"
--'  4  27  ~/age.sh
-|4,39,4,27,1646479222,"~/age.sh"
--'  4  27  ~/age.sh
-|4,39,4,27,1646479222,"~/age.sh"
--'  2  30  ~/age.sh
-|4,39,2,30,1646479182,"~/age.sh"
--'  3  30  ~/age.sh
-|4,39,3,30,1646479182,"~/age.sh"
--'  3  30  ~/age.sh
-|4,39,3,30,1646479182,"~/age.sh"
--'  3  30  ~/age.sh
-|4,39,3,30,1646479182,"~/age.sh"
--'  4  30  ~/age.sh
-|4,39,4,30,1646479182,"~/age.sh"
--'  3  30  ~/age.sh
-|4,39,3,30,1646479182,"~/age.sh"
--'  3  30  ~/age.sh
-|4,39,3,30,1646479182,"~/age.sh"
--'  2  30  ~/age.sh
-|4,39,2,30,1646479182,"~/age.sh"
--'  3  30  ~/age.sh
-|4,39,3,30,1646479182,"~/age.sh"
--'  3  30  ~/age.sh
-|4,39,3,30,1646479182,"~/age.sh"
--'  3  30  ~/age.sh
-|4,39,3,30,1646479182,"~/age.sh"
--'  4  30  ~/age.sh
-|4,39,4,30,1646479182,"~/age.sh"
--'  3  30  ~/age.sh
-|4,39,3,30,1646479182,"~/age.sh"
--'  3  30  ~/age.sh
-|4,39,3,30,1646479182,"~/age.sh"
--'  3  30  ~/age.sh
-|4,39,3,30,1646479149,"~/age.sh"
--'  3  30  ~/age.sh
-|4,39,3,30,1646479149,"~/age.sh"
--'  6  0  ~/age.sh
-|4,39,6,0,1646479099,"~/age.sh"
--'  5  0  ~/age.sh
-|4,39,5,0,1646479099,"~/age.sh"
--'  6  0  ~/age.sh
-|4,39,6,0,1646479099,"~/age.sh"
--'  6  0  ~/age.sh
-|4,39,6,0,1646479099,"~/age.sh"
--'  6  0  ~/age.sh
-|4,39,6,0,1646479099,"~/age.sh"
--'  6  0  ~/age.sh
-|4,39,6,0,1646479099,"~/age.sh"
--'  5  0  ~/age.sh
-|4,39,5,0,1646479099,"~/age.sh"
--'  5  0  ~/age.sh
-|4,39,5,0,1646479099,"~/age.sh"
--'  5  0  ~/age.sh
-|4,39,5,0,1646479099,"~/age.sh"
--'  6  0  ~/age.sh
-|4,39,6,0,1646479099,"~/age.sh"
--'  5  0  ~/age.sh
-|4,39,5,0,1646479099,"~/age.sh"
--'  6  0  ~/age.sh
-|4,39,6,0,1646479099,"~/age.sh"
--'  6  0  ~/age.sh
-|4,39,6,0,1646479099,"~/age.sh"
--'  6  0  ~/age.sh
-|4,39,6,0,1646479099,"~/age.sh"
--'  6  0  ~/age.sh
-|4,39,6,0,1646479099,"~/age.sh"
--'  5  0  ~/age.sh
-|4,39,5,0,1646479099,"~/age.sh"
--'  5  0  ~/age.sh
-|4,39,5,0,1646479099,"~/age.sh"
--'  5  0  ~/age.sh
-|4,39,5,0,1646479099,"~/age.sh"
--'  5  0  ~/age.sh
-|4,39,5,0,1646479056,"~/age.sh"
--'  5  0  ~/age.sh
-|4,39,5,0,1646479056,"~/age.sh"
--'  1  0  ~/age.sh
-|4,39,1,0,1646478850,"~/age.sh"
--'  1  0  ~/age.sh
-|4,39,1,0,1646478850,"~/age.sh"
--'  1  0  ~/age.sh
-|4,39,1,0,1646478850,"~/age.sh"
--'  1  0  ~/age.sh
-|4,39,1,0,1646478850,"~/age.sh"
--'  1  0  ~/age.sh
-|4,39,1,0,1646478850,"~/age.sh"
--'  1  0  ~/age.sh
-|4,39,1,0,1646478850,"~/age.sh"
--'  1  0  ~/age.sh
-|4,39,1,0,1646478850,"~/age.sh"
--'  1  0  ~/age.sh
-|4,39,1,0,1646478850,"~/age.sh"
--'  1  0  ~/age.sh
-|4,39,1,0,1646478850,"~/age.sh"
--'  1  0  ~/age.sh
-|4,39,1,0,1646478850,"~/age.sh"
--'  1  0  ~/age.sh
-|4,39,1,0,1646478850,"~/age.sh"
--'  1  0  ~/age.sh
-|4,39,1,0,1646478850,"~/age.sh"
--'  1  0  ~/age.sh
-|4,39,1,0,1646478850,"~/age.sh"
--'  1  0  ~/age.sh
-|4,39,1,0,1646478850,"~/age.sh"
--'  1  0  ~/age.sh
-|4,39,1,0,1646478850,"~/age.sh"
--'  1  0  ~/age.sh
-|4,39,1,0,1646478850,"~/age.sh"
+|4,39,1,10,1646479656,"~/age.sh"
+-'  1  10  ~/age.sh
+|4,39,1,10,1646479656,"~/age.sh"
+-'  1  10  ~/age.sh
+|4,39,1,10,1646479656,"~/age.sh"
+-'  1  10  ~/age.sh
+|4,39,1,10,1646479656,"~/age.sh"
+-'  1  10  ~/age.sh
+|4,39,1,10,1646479656,"~/age.sh"
+-'  1  10  ~/age.sh
+|4,39,1,10,1646479656,"~/age.sh"
+-'  1  10  ~/age.sh
+|4,39,1,10,1646479656,"~/age.sh"
+-'  1  10  ~/age.sh
+|4,39,1,10,1646479656,"~/age.sh"
+-'  1  10  ~/age.sh
+|4,39,1,10,1646479656,"~/age.sh"
+-'  1  10  ~/age.sh
+|4,39,1,10,1646479656,"~/age.sh"
 
 # History of marks within files (newest to oldest):
+
+> ~/ifazure
+	*	1646916975	0
+	"	1	899
+	^	1	900
+	.	1	892
+	+	1	892
+
+> ~/AzureTerraform/suresh
+	*	1646916481	0
+	"	2	36
+	^	2	37
+	.	2	36
+	+	1	10
+	+	2	36
+
+> ~/AzureTerraform/file.txt
+	*	1646915157	0
+	"	2	0
+	^	2	0
+	.	1	10
+	+	1	10
 
 > ~/HELLOSURESH
 	*	1646914560	0
